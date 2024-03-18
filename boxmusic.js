@@ -31,13 +31,13 @@ const app = {
     {
       name: "Xin Đừng Lặng Im",
       singer: "Soobin Hoàng Sơn",
-      path: "./css/mp3/Xin-Dung-Lang-Im-Soobin-Hoang-Son.mp3",
+      path: "./assets/mp3/Xin-Dung-Lang-Im-Soobin-Hoang-Son.mp3",
       image: "https://img.ws.mms.shopee.vn/b9e94c4344542803341fec70e1b57163"
     },
     {
       name: "Anh Cứ Đi Đi",
       singer: "Hari Won",
-      path: "./css/mp3/Anh-Cu-Di-Di-Hari-Won.mp3",
+      path: "./assets/mp3/Anh-Cu-Di-Di-Hari-Won.mp3",
       image:
         "https://tiengtrungtimesvn.edu.vn/wp-content/uploads/2023/07/trang-phuc-truyen-thong-trung-quoc-1.jpg"
     },
@@ -45,20 +45,20 @@ const app = {
       name: "Cớ Sao Giờ Lại Chia Xa",
       singer: "Bích Phương",
       path:
-        "./css/mp3/Co-Sao-Gio-Lai-Chia-Xa-Bich-Phuong.mp3",
+        "./assets/mp3/Co-Sao-Gio-Lai-Chia-Xa-Bich-Phuong.mp3",
       image: "https://resources.welog.vn/0x0/temp/suon-xam-1683912424.png"
     },
     {
       name: "Giữ Lấy Làm Gì",
       singer: "Monstar",
-      path: "./css/mp3/Giu-Lay-Lam-Gi-Monstar.mp3",
+      path: "./assets/mp3/Giu-Lay-Lam-Gi-Monstar.mp3",
       image:
         "https://goldensmiletravel.com/uploads/images/2023/04/04/van-hoa-nguoi-mieu-1-1680598610.jpg"
     },
     {
       name: "À Lôi",
       singer: "Double2T, Masew",
-      path: "./css/mp3/A Loi - Double2T, Masew - NhacHayVN.mp3",
+      path: "./assets/mp3/A Loi - Double2T, Masew - NhacHayVN.mp3",
       image:
         "https://cdn-i.vtcnews.vn/resize/th/upload/2023/07/19/a-loi-23281702.jpg"
     },
@@ -66,14 +66,14 @@ const app = {
       name: "Là Anh",
       singer: "Phạm Lịch, BMZ",
       path:
-        "./css/mp3/La Anh - Pham Lich, BMZ - NhacHayVN.mp3",
+        "./assets/mp3/La Anh - Pham Lich, BMZ - NhacHayVN.mp3",
       image:
         "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/cover/7/c/f/b/7cfb5b1fc043c99a5af1212375df982d.jpg"
     },
     {
       name: "Thu Cuối",
       singer: "Yanbi, Mr.T, Hằng BingBoong",
-      path: "./css/mp3/Thu Cuoi - Yanbi, Mr.T, Hang BingBoong - NhacHayVN.mp3",
+      path: "./assets/mp3/Thu Cuoi - Yanbi, Mr.T, Hang BingBoong - NhacHayVN.mp3",
       image:
         "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_png/avatars/8/e/8e02a864575266866ce9ab90731747bc_1455449226.png"
     }
